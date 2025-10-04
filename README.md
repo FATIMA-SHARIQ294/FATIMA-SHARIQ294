@@ -10,7 +10,7 @@ In this repository, you'll discover a collection of my course assignments and pe
 - Python 🐍
 - TypeScript 📘
 - C++ 🖥️
-- HTML/CSS 🌐
+- HTML
 
 ## Connect with Me
 Feel free to connect with me and explore my journey as I navigate through the exciting world of computer science and programming. Your feedback and suggestions are always welcome!
